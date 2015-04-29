@@ -1,0 +1,14 @@
+{
+  "name": "simple",
+  "version": "0.0.0",
+  "description": "Simple express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Savannah Kunovsky (svnh.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

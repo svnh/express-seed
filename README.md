@@ -1,3 +1,4 @@
 # express-seed
-> Modular seed for [Express.js](http://expressjs.com/) applications
- 
+
+> Starter [express.js](http://expressjs.com) seed servers
+
