@@ -1,5 +1,5 @@
 {
-  "name": "express-seed",
+  "name": "modular",
   "version": "0.0.0",
   "description": "Modular seed for express.js applications",
   "main": "server.js",
